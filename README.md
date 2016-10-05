@@ -1,2 +1,2 @@
 # hello-world
-Bit about myselef.
+Bit about myself!
